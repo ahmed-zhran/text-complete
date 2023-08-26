@@ -1,0 +1,23 @@
+.note{
+    padding: 20px 10px;
+    border-width: 2px;
+    border-color: grey;
+    border-style: none none solid none;
+    font-size: 1rem;
+    margin: 0px;
+}
+
+.note-refCount{
+        /* margin-left: 0px; */
+        justify-content: end;
+        display: flex;
+        margin-right: 9px;
+        padding: 8px;
+        font-size: 12px;
+}
+
+.note-entity{
+    background-color: floralwhite;
+    border-radius: 50px;
+    padding: 3px;
+}
