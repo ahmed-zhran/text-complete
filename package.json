@@ -1,13 +1,14 @@
 {
   "name": "text-complete",
   "version": "0.1.0",
-  "homepage": "https://ahmed-zhran.github.io/idea-flow",
+  "homepage": "http://ahmed-zhran.github.io/text-complete",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
